@@ -1,3 +1,3 @@
 # radhika-first-demo
 this is my first demo project
-authoe-RADHIKA AGARWAL
+author-RADHIKA AGARWAL
